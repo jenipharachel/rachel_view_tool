@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RachelViewTool::Renderer.copyright "Jenipha Rachel", "All rights reserved"
+```
 
 ## Development
 
